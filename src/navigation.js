@@ -24,7 +24,7 @@ export const headerData = {
       ],
     },
     {
-      text: 'Pages',
+      text: 'Projects',
       links: [
         {
           text: 'Features (Anchor Link)',
@@ -86,7 +86,7 @@ export const headerData = {
       ],
     },
     {
-      text: 'Blog',
+      text: 'Projects',
       links: [
         {
           text: 'Blog List',
