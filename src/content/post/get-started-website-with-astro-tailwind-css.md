@@ -7,7 +7,7 @@ image: https://images.unsplash.com/photo-1516996087931-5ae405802f9f?ixlib=rb-4.0
 category: Tutorials
 tags:
   - astro
-  - tailwind css
+  - tailwind cs
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
